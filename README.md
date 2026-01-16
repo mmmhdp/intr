@@ -20,34 +20,9 @@ asynchronous processing, and real-time data handling.
 
 ## Technical Skills
 
-### Core Languages
-- **C++** (primary)
-- **C**
-- Python (used for prototyping and system integration)
+**Languages:** C++, C, Python  
 
-### Systems & Concepts
-- Multithreading and concurrency
-- Asynchronous processing
-- Finite State Machines (FSM)
-- Data consistency and background workers
-- Real-time data pipelines
-
-### Backend & APIs
-- RESTful APIs
-- Async services
-- FastAPI
-
-### Databases & Storage
-- PostgreSQL
-- Redis
-- Object storage (MinIO)
-
-### Other
-- Linux
-- Git
-- Basic networking concepts
-- Video and audio stream processing
-
+**Tools:** Linux, Git, Docker, Make, CMake
 ---
 
 ## Projects
@@ -56,15 +31,15 @@ asynchronous processing, and real-time data handling.
 *Pet / Academic Project*  
 https://github.com/mmmhdp/farseer
 
-- Designed and implemented an asynchronous service for real-time video stream analysis
-- Built request lifecycle management using an explicit finite state machine (FSM) with real-time status updates
-- Implemented a proxy-write pattern to ensure data consistency between Redis and PostgreSQL using background workers
-- Integrated RTSP video streams with concurrent frame processing using multithreading
-- Developed an async REST API using FastAPI for request management
+- Implemented an asynchronous service for real-time video stream analysis
+- Designed request lifecycle management using an explicit finite state machine (FSM)
+- Ensured data consistency between Redis and PostgreSQL using background workers
+- Integrated RTSP video streams with concurrent frame processing
+- Developed an async REST API for request management
 - Integrated object detection inference as a processing component
 - Used PostgreSQL for persistent state storage and MinIO for media storage
 
-**Tech stack:** Python, FastAPI, PostgreSQL, Redis, MinIO, RTSP, multithreading
+**Tech stack:** Python, FastAPI, PostgreSQL, Redis, MinIO, RTSP, Docker
 
 ---
 
@@ -73,14 +48,14 @@ https://github.com/mmmhdp/farseer
 https://github.com/mmmhdp/bishop
 
 - Developed a full-stack conversational application with voice-based interaction
-- Implemented backend services for user registration, authentication, and chat management
-- Built frontend interfaces using FastHTML, including user dashboard, chat UI, and model interaction interface
+- Implemented backend services for user authentication and chat management
+- Built frontend interfaces using FastHTML (user dashboard, chat UI)
 - Integrated audio processing pipeline for voice input and output
-- Worked with speech and language models, including experimentation with model fine-tuning
-- Designed end-to-end system workflow across frontend, backend, and ML inference layers
-- Focused on application architecture and system integration rather than ML research
+- Worked with speech and language models as part of the system
+- Designed end-to-end workflow across frontend, backend, and ML components
+- Focused on application architecture and system integration
 
-**Tech stack:** Python, FastHTML, backend services, audio processing, ML model integration
+**Tech stack:** Python, Fastapi, FastHTML, YOLO, Docker
 
 ---
 
