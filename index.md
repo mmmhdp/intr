@@ -36,10 +36,9 @@ asynchronous processing, and real-time data handling.
 
 ## Projects
 
-### Real-Time Video Stream Analysis Service (Farseer)
+### Real-Time Video Stream Analysis Service ([Farseer](https://github.com/mmmhdp/farseer))
 
 *Pet / Academic Project*  
-`https://github.com/mmmhdp/farseer`
 
 - Implemented an asynchronous service for real-time video stream analysis
 - Designed request lifecycle management using an explicit finite state machine (FSM)
@@ -53,10 +52,9 @@ asynchronous processing, and real-time data handling.
 
 ---
 
-### Voice-Based Conversational AI Platform (Bishop)
+### Voice-Based Conversational AI Platform ([Bishop](https://github.com/mmmhdp/bishop))
 
 *Team Diploma Project*  
-`https://github.com/mmmhdp/bishop`
 
 - Developed a full-stack conversational application with voice-based interaction
 - Implemented backend services for user authentication and chat management
@@ -83,7 +81,7 @@ Program focused on software engineering, system design, and applied machine lear
 
 ## Additional Training
 
-### [C Programming Course (MIPT)](https://youtube.com/playlist?list=PL3BR09unfgchRxdDws74aY4mlSk9eYGEs&si=y2osnNrwPYRxyjIY)
+### [C Programming Course (MIPT)](https://www.youtube.com/watch?v=7YhRFx-oyW4&t=52s)
 - Completed an intensive course on C programming
 - Solved a large set of algorithmic and systems-level problems
 - Implemented an LRU cache in C as a final course project
@@ -98,7 +96,7 @@ Original tasks:
 
 ---
 
-### C++ Programming Course (Bachelor Level, MIPT)
+### [C++ Programming Course (Bachelor Level, MIPT)](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK&index=1)
 
 - Completed and documented a full undergraduate C++ course
 - Topics included:
