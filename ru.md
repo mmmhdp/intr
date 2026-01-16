@@ -9,11 +9,11 @@
 
 Местоположение: Москва, Россия (GMT+3)  
 
-telegram: [](@hfhhdp)
+telegram: [@hfhhdp]()
 
-mail: `nm_work_0@proton.me`  
+mail: [nm_work_0@proton.me`]()
 
-github: `https://github.com/mmmhdp`  
+github: [repo](https://github.com/mmmhdp)
 
 ---
 
