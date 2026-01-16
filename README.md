@@ -29,11 +29,13 @@ asynchronous processing, and real-time data handling.
 **Languages:** C++, C, Python  
 
 **Tools:** Linux, Git, Docker, Make, CMake
+
 ---
 
 ## Projects
 
 ### Real-Time Video Stream Analysis Service (Farseer)
+
 *Pet / Academic Project*  
 https://github.com/mmmhdp/farseer
 
@@ -50,6 +52,7 @@ https://github.com/mmmhdp/farseer
 ---
 
 ### Voice-Based Conversational AI Platform (Bishop)
+
 *Team Diploma Project*  
 https://github.com/mmmhdp/bishop
 
