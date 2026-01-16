@@ -1,3 +1,5 @@
+[English](./index.md) | Русский](./ru.md)
+
 # Nikita Malcev 
 C++ Software Engineer
 
