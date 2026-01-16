@@ -22,7 +22,7 @@ github: [repo](https://github.com/mmmhdp)
 Software engineering graduate with a background in systems and software engineering.
 Interested in C++ development and low-level aspects of software systems.
 Completed academic and pet projects involving backend services,
-asynchronous processing, and real-time data handling.
+asynchronous processing, and real-time data handling"
 
 ---
 
