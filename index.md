@@ -111,7 +111,7 @@ Original tasks:
 ## Early Professional Experience
 
 ### Private Tutor (Mathematics & Physics)  
-**2017 – 2019, 2020 – 2021**
+**2017 – 2021**
 
 - Provided individual and group tutoring in mathematics and physics
 - Worked with students of different skill levels
