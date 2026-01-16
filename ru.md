@@ -9,7 +9,7 @@
 
 Местоположение: Москва, Россия (GMT+3)  
 
-telegram: `@hfhhdp`  
+telegram: [](@hfhhdp)
 
 mail: `nm_work_0@proton.me`  
 
@@ -36,10 +36,9 @@ github: `https://github.com/mmmhdp`
 
 ## Проекты
 
-### Сервис анализа видеопотока в реальном времени (Farseer)  
+### Сервис анализа видеопотока в реальном времени ([Farseer](https://github.com/mmmhdp/farseer))  
 
 *Личный / академический проект*  
-`https://github.com/mmmhdp/farseer`
 
 - Реализовал асинхронный сервис для анализа видеопотоков в реальном времени  
 - Спроектировал управление жизненным циклом запросов с использованием конечного автомата (FSM)  
@@ -53,10 +52,10 @@ github: `https://github.com/mmmhdp`
 
 ---
 
-### Платформа голосового общения на основе ИИ (Bishop)  
+### Платформа голосового общения на основе ИИ ([Bishop](https://github.com/mmmhdp/bishop))
+
 
 *Командный дипломный проект*  
-`https://github.com/mmmhdp/bishop`
 
 - Разработал full-stack приложение для голосового взаимодействия  
 - Реализовал backend-сервисы для аутентификации пользователей и управления чатами  
@@ -83,20 +82,21 @@ github: `https://github.com/mmmhdp`
 
 ## Дополнительное обучение
 
-### Курс по языку C (МФТИ)  
+### [Курс по языку C (МФТИ)(https://www.youtube.com/watch?v=7YhRFx-oyW4&t=52s)]
 - Пройден интенсивный курс по языку C  
 - Решено большое количество алгоритмических и системных задач  
 - Реализован LRU-кэш на C в качестве итогового проекта  
 - Изучены низкоуровневое управление памятью и структуры данных  
 
-Решения: `https://github.com/mmmhdp/bscalg`
+[Решения заданий](https://github.com/mmmhdp/bscalg)
+
 Оригинальные задания: 
-- `https://github.com/tilir/c-graduate`
-- `https://contest.yandex.ru/contest/66459/problems`
+- [Репозиторий автора](https://github.com/tilir/c-graduate)
+- [Яндекс Контест с заданиями](https://contest.yandex.ru/contest/66459/problems)
 
 ---
 
-### Курс по C++ (бакалаврский уровень, МФТИ)  
+### [Курс по C++ (бакалаврский уровень, МФТИ)](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK&index=1)
 - Пройден и задокументирован полный курс по C++  
 - Темы включали:
   - Объектно-ориентированное программирование  
