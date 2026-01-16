@@ -90,9 +90,12 @@ Program focused on software engineering, system design, and applied machine lear
 - Worked with low-level memory management and data structures
 
 Solutions: `https://github.com/mmmhdp/bscalg`
+
 Original tasks: 
+
 - `https://github.com/tilir/c-graduate`
 - `https://contest.yandex.ru/contest/66459/problems`
+
 ---
 
 ### C++ Programming Course (Bachelor Level, MIPT)
