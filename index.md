@@ -87,12 +87,12 @@ Program focused on software engineering, system design, and applied machine lear
 - Implemented an LRU cache in C as a final course project
 - Worked with low-level memory management and data structures
 
-Solutions: `https://github.com/mmmhdp/bscalg`
+[Solutions](https://github.com/mmmhdp/bscalg)
 
 Original tasks: 
 
-- `https://github.com/tilir/c-graduate`
-- `https://contest.yandex.ru/contest/66459/problems`
+- [Original repository](https://github.com/tilir/c-graduate)
+- [Related Yandex Contests](https://contest.yandex.ru/contest/66459/problems)
 
 ---
 
