@@ -13,7 +13,7 @@ telegram: `@hfhhdp`
 
 mail: `nm_work_0@proton.me`
 
-github:`https://github.com/mmmhdp`
+github: [repo](https://github.com/mmmhdp)
 
 ---
 
