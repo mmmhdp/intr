@@ -19,10 +19,9 @@ github: [repo](https://github.com/mmmhdp)
 
 ## Summary
 
-Software engineering graduate with a background in systems and software engineering.
-Interested in C++ development and low-level aspects of software systems.
-Completed academic and pet projects involving backend services,
-asynchronous processing, and real-time data handling"
+Graduated with a Bachelor's degree.
+Worked on Python projects with asynchronous processing and real-time backend services.
+Currently developing C++ skills to work on high-load systems, build efficient multithreaded architectures, and optimize performance.
 
 ---
 
