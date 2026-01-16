@@ -83,7 +83,7 @@ Program focused on software engineering, system design, and applied machine lear
 
 ## Additional Training
 
-### C Programming Course (MIPT)
+### [C Programming Course (MIPT)](https://youtube.com/playlist?list=PL3BR09unfgchRxdDws74aY4mlSk9eYGEs&si=y2osnNrwPYRxyjIY)
 - Completed an intensive course on C programming
 - Solved a large set of algorithmic and systems-level problems
 - Implemented an LRU cache in C as a final course project
@@ -99,6 +99,7 @@ Original tasks:
 ---
 
 ### C++ Programming Course (Bachelor Level, MIPT)
+
 - Completed and documented a full undergraduate C++ course
 - Topics included:
   - Object-oriented programming
