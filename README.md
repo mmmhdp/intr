@@ -1,7 +1,10 @@
 # Nikita Malcev 
-Software Engineer
+C++ Software Engineer
 
-## Contats
+---
+
+## Contacts
+
 Location: Moscow, Russia (GMT+3)
 
 telegram: `@hfhhdp`
