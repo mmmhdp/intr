@@ -39,7 +39,7 @@ github: `https://github.com/mmmhdp`
 ### Сервис анализа видеопотока в реальном времени (Farseer)  
 
 *Личный / академический проект*  
-https://github.com/mmmhdp/farseer  
+`https://github.com/mmmhdp/farseer`
 
 - Реализовал асинхронный сервис для анализа видеопотоков в реальном времени  
 - Спроектировал управление жизненным циклом запросов с использованием конечного автомата (FSM)  
@@ -56,7 +56,7 @@ https://github.com/mmmhdp/farseer
 ### Платформа голосового общения на основе ИИ (Bishop)  
 
 *Командный дипломный проект*  
-https://github.com/mmmhdp/bishop  
+`https://github.com/mmmhdp/bishop`
 
 - Разработал full-stack приложение для голосового взаимодействия  
 - Реализовал backend-сервисы для аутентификации пользователей и управления чатами  
@@ -89,8 +89,10 @@ https://github.com/mmmhdp/bishop
 - Реализован LRU-кэш на C в качестве итогового проекта  
 - Изучены низкоуровневое управление памятью и структуры данных  
 
-Решения: https://github.com/mmmhdp/bscalg  
-Оригинальные задания: https://github.com/tilir/c-graduate  
+Решения: `https://github.com/mmmhdp/bscalg`
+Оригинальные задания: 
+- `https://github.com/tilir/c-graduate`
+- `https://contest.yandex.ru/contest/66459/problems`
 
 ---
 
