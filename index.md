@@ -31,6 +31,7 @@ Currently developing C++ skills to work on high-load systems, build efficient mu
 
 **Tools:** Linux, Git, Docker, Make, CMake
 
+**Languages:** Russian (native), English (C1)
 ---
 
 ## Projects
@@ -68,6 +69,10 @@ Currently developing C++ skills to work on high-load systems, build efficient mu
 ---
 
 ## Education
+
+### Municipal Secondary School No. 145  
+Physics and Mathematics Program.
+*2006–2017*
 
 ### National University of Science and Technology MISiS  
 **Bachelor’s Degree in Systems and Software Engineering**  
