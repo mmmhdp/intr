@@ -76,6 +76,7 @@ Physics and Mathematics Program.
 
 ### National University of Science and Technology MISiS  
 **Bachelor’s Degree in Systems and Software Engineering**  
+
 Specialization: Intelligent Data Analysis Systems  
 **2021 – 2025**
 
