@@ -72,7 +72,7 @@ Currently developing C++ skills to work on high-load systems, build efficient mu
 
 ### Municipal Secondary School No. 145  
 Physics and Mathematics Program.
-*2006–2017*
+**2006–2017**
 
 ### National University of Science and Technology MISiS  
 **Bachelor’s Degree in Systems and Software Engineering**  
