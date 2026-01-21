@@ -74,7 +74,7 @@ Currently developing C++ skills to work on high-load systems, build efficient mu
 Physics and Mathematics Program.
 **2006–2017**
 
-### National University of Science and Technology MISiS  
+### National University of Science and Technology MISIS  
 **Bachelor’s Degree in Systems and Software Engineering**  
 
 Specialization: Intelligent Data Analysis Systems  
