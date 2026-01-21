@@ -71,14 +71,16 @@ Currently developing C++ skills to work on high-load systems, build efficient mu
 ## Education
 
 ### Municipal Secondary School No. 145  
-Physics and Mathematics Program.
 **2006–2017**
 
+Physics and Mathematics Program.
+
 ### National University of Science and Technology MISIS  
+**2021 – 2025**
+
 **Bachelor’s Degree in Systems and Software Engineering**  
 
 Specialization: Intelligent Data Analysis Systems  
-**2021 – 2025**
 
 Program focused on software engineering, system design, and applied machine learning with emphasis on real-world applications.
 
