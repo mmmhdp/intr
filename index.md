@@ -32,6 +32,7 @@ Currently developing C++ skills to work on high-load systems, build efficient mu
 **Tools:** Linux, Git, Docker, Make, CMake
 
 **Languages:** Russian (native), English (C1)
+
 ---
 
 ## Projects
