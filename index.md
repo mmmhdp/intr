@@ -11,7 +11,7 @@ Location: Moscow, Russia (GMT+3)
 
 telegram: `@hfhhdp`
 
-mail: `nm_work_0@proton.me`
+mail: `malcevnik99@gmail.com`
 
 github: [repo](https://github.com/mmmhdp)
 
