@@ -67,7 +67,7 @@ Currently developing C++ skills to work on high-load systems, build efficient mu
 
 **Tech stack:** Python, Fastapi, FastHTML, YOLO, Docker
 
-### EEPROM SPI Memory Driver (25LC040A)
+### EEPROM SPI Memory Driver (25LC040A) ([task1](https://github.com/mmmhdp/infotecs_junior_position_assigment))
 
 *Completed as part of the selection process for a Junior Developer position*
 
@@ -81,7 +81,9 @@ Currently developing C++ skills to work on high-load systems, build efficient mu
 
 **Tech stack:** C++, SPI (bit-banging), Embedded Systems Concepts, Doxygen, Git
 
-### Custom Fixed-Size Memory Allocator (C)
+### Custom Fixed-Size Memory Allocator (C) ([task2](https://github.com/mmmhdp/infotecs_junior_position_assigment))
+
+
 
 *Completed as part of the selection process for a Junior Developer position*
 

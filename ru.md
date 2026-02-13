@@ -70,7 +70,7 @@ github: [repo](https://github.com/mmmhdp)
 
 **Технологии:** Python, FastAPI, FastHTML, YOLO, Docker  
 
-### EEPROM SPI Memory Driver (25LC040A)
+### EEPROM SPI Memory Driver (25LC040A) ([task1](https://github.com/mmmhdp/infotecs_junior_position_assigment))
 
 *Проект выполнен в рамках отбора на позицию Junior-разработчика*
 
@@ -84,7 +84,7 @@ github: [repo](https://github.com/mmmhdp)
 
 **Стек технологий:** C++, SPI (bit-banging), Embedded Systems, Doxygen, Git
 
-### Custom Fixed-Size Memory Allocator (C)
+### Custom Fixed-Size Memory Allocator (C) ([task2](https://github.com/mmmhdp/infotecs_junior_position_assigment))
 
 *Проект выполнен в рамках отбора на позицию Junior-разработчика*
 
