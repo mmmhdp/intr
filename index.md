@@ -67,6 +67,36 @@ Currently developing C++ skills to work on high-load systems, build efficient mu
 
 **Tech stack:** Python, Fastapi, FastHTML, YOLO, Docker
 
+### EEPROM SPI Memory Driver (25LC040A)
+
+*Completed as part of the selection process for a Junior Developer position*
+
+- Designed and implemented a C++ abstraction layer for SPI EEPROM (25LC040A) using a bit-banging driver  
+- Developed a memory access API supporting bit-, byte-, and buffer-level read/write operations  
+- Designed interface-based architecture (`i_memory_device_api`, `i_chip_spi_api`) to decouple hardware access from memory logic  
+- Implemented address management and command framing according to the SPI EEPROM protocol  
+- Documented all public interfaces, constants, and enumerations using Doxygen  
+- Analyzed architectural changes required for supporting NOR Flash (W25Q128), including page programming, sector erase, 24-bit addressing, and read-modify-write logic  
+- Structured the project with clean modular layout and compilation-ready C++ codebase  
+
+**Tech stack:** C++, SPI (bit-banging), Embedded Systems Concepts, Doxygen, Git
+
+### Custom Fixed-Size Memory Allocator (C)
+
+*Completed as part of the selection process for a Junior Developer position*
+
+- Implemented a custom memory allocator in pure C supporting two fixed allocation sizes (15 and 180 bytes)  
+- Designed separate memory pools with free-list management for efficient block reuse  
+- Implemented buffer-based allocation strategy, splitting large buffers into fixed-size blocks  
+- Ensured low allocation overhead and fast O(1) allocation/deallocation via linked free lists  
+- Added pointer ownership validation with fail-fast behavior on invalid free  
+- Designed platform-adaptive bootstrap layer using `malloc` (NAIVE_BOOTSTRAP) or `mmap` (POSIX_BOOTSTRAP) depending on availability  
+- Ensured compatibility across 8-bit, 16-bit, and 32-bit architectures  
+- Wrote unit tests using Google Test to verify allocation, reuse behavior, and error handling  
+- Structured the project as a clean, modular, compilation-ready C codebase  
+
+**Tech stack:** C, Memory Management, Free Lists, mmap, Google Test, Git
+
 ---
 
 ## Education
