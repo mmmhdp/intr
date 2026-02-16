@@ -81,9 +81,7 @@ Currently developing C++ skills to work on high-load systems, build efficient mu
 
 **Tech stack:** C++, SPI (bit-banging), Embedded Systems Concepts, Doxygen, Git
 
-### Custom Fixed-Size Memory Allocator (C) ([task2](https://github.com/mmmhdp/infotecs_junior_position_assigment))
-
-
+### Custom Fixed-Size Memory Allocator ([task2](https://github.com/mmmhdp/infotecs_junior_position_assigment))
 
 *Completed as part of the selection process for a Junior Developer position*
 
@@ -98,6 +96,24 @@ Currently developing C++ skills to work on high-load systems, build efficient mu
 - Structured the project as a clean, modular, compilation-ready C codebase  
 
 **Tech stack:** C, Memory Management, Free Lists, mmap, Google Test, Git
+
+### LRU Cache Implementation in C ([caching](https://github.com/mmmhdp/bscalg/tree/main/calg/caching))
+
+*Pet / Educational Project*
+
+Implemented a Least Recently Used (LRU) cache in pure C supporting constant-time operations
+
+Built core data structures: a hash map for fast key → node lookup and a doubly linked list for tracking usage order (most recently used → least recently used) to support O(1) get/put semantics
+
+Designed eviction logic that automatically removes the least recently used entry when capacity is exceeded
+
+Managed memory manually, including dynamic allocation, pointer linking, and clean deallocation
+
+Developed comprehensive unit tests validating correctness of cache operations, eviction policy, and edge cases
+
+Structured code for modularity and reuse, with clear interfaces between data structures and cache logic
+
+Tech stack: C, Hash map, Doubly linked list, Memory management, Unit testing, Git
 
 ---
 
