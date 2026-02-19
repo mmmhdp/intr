@@ -82,7 +82,7 @@ github: [repo](https://github.com/mmmhdp)
 - Разработал API доступа к памяти с поддержкой чтения и записи одного бита, одного байта и массива байт
 - Задокументировал все публичные интерфейсы, константы и перечисления с использованием Doxygen
 
-**Стек технологий:** C++, Doxygen, Git, CMake
+**Тexнологии:** C++, Doxygen, Git, CMake
 
 ### Custom Fixed-Size Memory Allocator (C) ([task2](https://github.com/mmmhdp/infotecs_junior_position_assigment))
 
