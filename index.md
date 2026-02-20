@@ -1,7 +1,7 @@
 [English](./index.md) | [Русский](./ru.md)
 
 # Nikita Maltsev
-Junior C++ Developer
+C++ Developer
 
 ---
 
