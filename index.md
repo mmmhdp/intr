@@ -99,11 +99,6 @@ Implemented an **LRU (Least Recently Used) cache** in pure C with constant‑tim
 
 ## Education
 
-### MAOU Secondary School No. 145
-**2006–2017**
-
-Physics and mathematics class.
-
 ### National University of Science and Technology MISIS
 **2021–2025**
 
@@ -132,21 +127,3 @@ Original assignments:
 ### [C++ Programming Course (Bachelor’s Level, MIPT)](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK&index=1)
 
 * Completed a bachelor’s‑level C++ course.
-
----
-
-## Early Professional Experience
-
-### Private Tutor (Mathematics and Physics)
-**2017–2021**
-
-* Conducted individual and group lessons in mathematics and physics.
-
----
-
-### Co‑Founder, Educational Centre
-**2019–2020**
-
-* Co‑founded and managed a small educational centre for exam preparation.
-
----
