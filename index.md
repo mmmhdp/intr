@@ -1,6 +1,7 @@
 [English](./index.md) | [Русский](./ru.md)
 
 # Nikita Maltsev
+
 C++ Developer
 
 ---
@@ -13,117 +14,109 @@ Telegram: `@hfhhdp`
 
 Email: `malcevnik99@gmail.com`
 
-GitHub: [repo](https://github.com/mmmhdp)
+GitHub: [mmmhdp](https://github.com/mmmhdp)
 
 ---
 
 ## About Me
 
-I completed my bachelor’s degree in a field closely related to the practical application of machine learning.
-
-This experience helped me realise that analytics and working with models are not my strong suit, whereas academic projects involving direct development and design gave me clarity about my future career path.
-
-Developing MVP services using Python was what I gained from academic projects, but I always wanted to dive into developing services of a different format — more systemic. However, I only found the time for this after defending my thesis.
-
-That’s how I immersed myself in learning the languages used to write the vast majority of system software — C and C++, as well as tools necessary for productive development of system products.
-
-At this stage, it is important for me to find a place where, on the one hand, I can put my skills to the test, and on the other — develop them further.
+I’m a C++ developer working on on-device recognition software and the tools engineers use to develop, debug, and test it.
 
 ---
 
 ## Technical Skills
 
-**ProgrammingProgramming Languages:** C++, C, Python
+**Programming languages:** C++, C, Python
 
-**Tools:** Linux, Git, Docker, Make, CMake
+**Libraries and frameworks:** Qt6, Google Test 
+
+**Build and development tools:** CMake, CTest, Make, Git, Docker
 
 **Languages:** Russian, English (C1)
 
 ---
 
-## Projects
+## Professional Experience
 
-### Real‑Time Video Stream Analysis Service ([Farseer](https://github.com/mmmhdp/farseer))
+### SmartEngines — Junior C++ Developer
 
-*Coursework*
+**March 2026 – Present**
 
-* Implemented an asynchronous service for real‑time analysis of RTSP video streams with a microservices architecture.
-* Developed an asynchronous REST API to manage requests to the service.
-* Integrated a processing component with object detection inference based on a YOLO model.
+Member of both the Face Recognition Engine team and the Internal Tools team, developing on-device recognition software, debugging tools, and automated testing infrastructure.
 
-**Technologies:** Python, FastAPI, PostgreSQL, Redis, MinIO, Docker, Git
+- Refactored the face recognition pipeline into separate frame and region-processing components, enabling parallel processing of detected faces within a frame; also parallelized face embedding computation using the company’s cross-platform concurrency library.
+
+- Improved responsiveness of a Qt6 debugging application by moving log parsing and process management off the GUI thread and implementing batched UI commands with configurable update frequency and batch size.
+
+- Extended the debugging application with legacy-protocol support, configurable loggers, reusable launch configurations, and integration with GDB and Qt Creator on Linux.
+
+- Developed reusable Google Test infrastructure and migrated test suites across document and identity recognition engines. Reduced execution time of an identity-engine test suite from approximately 705 to 402 seconds (43%) through parallelization, decomposition, and removal of redundant executions; confirmed results locally and in the build infrastructure.
+
+- Rebuilt liveness timers around a consistent, typed interface using `std::chrono`; implemented specialized timers, controllable test doubles, and tests for timing-dependent behavior.
+
+- Developed a Python parser for CTest and Google Test logs, producing structured JSON reports with failed test cases and diagnostic details, including sanitizer output, for automated developer notifications.
+
+- Added Linux SDK build and test support for ASan, UBSan, and LSan; configured UBSan findings to fail automated tests, with targeted suppression lists for third-party code.
 
 ---
 
-### Virtual Avatar Interaction Service ([Bishop](https://github.com/mmmhdp/bishop))
+## Selected Projects
 
-*Team graduation project (experimental format)*
+### EEPROM SPI Memory Driver — C++
 
-* Developed the project’s UI as a SPA (Single‑Page Application).
-* Implemented the backend for a range of tasks — from user authentication and metadata storage to text and audio generation.
-* Integrated an audio pipeline for generating voiceovers for avatar messages.
+[Source code](https://github.com/mmmhdp/infotecs_junior_position_assigment)
 
-**Technologies:** Python, FastAPI, FastHTML, Docker, YOLO, Git
+*Technical assessment project*
 
-### EEPROM SPI Memory Driver (25LC040A) ([task1](https://github.com/mmmhdp/infotecs_junior_position_assigment))
+- Implemented a C++ abstraction for accessing 25LC040A SPI EEPROM through a bit-banging driver.
+- Developed an API for reading and writing individual bits, bytes, and byte arrays; documented public interfaces using Doxygen.
 
-*Project completed as part of the selection process for a Junior Developer position at Company N*
+**Technologies:** C++, CMake, Doxygen
 
-* Designed and implemented a C++ abstraction for working with SPI EEPROM (25LC040A) using a bit‑banging driver.
-* Developed a memory access API supporting reading and writing a single bit, a single byte, and a byte array.
-* Documented all public interfaces, constants, and enumerations using Doxygen.
+### Custom Fixed-Size Memory Allocator — C
 
-**Technologies:** C++, Doxygen, Git, CMake
+[Source code](https://github.com/mmmhdp/infotecs_junior_position_assigment)
 
-### Custom Fixed‑Size Memory Allocator (C) ([task2](https://github.com/mmmhdp/infotecs_junior_position_assigment))
+*Technical assessment project*
 
-*Project completed as part of the selection process for a Junior Developer position at Company N*
+- Implemented a memory allocator supporting two fixed allocation sizes.
+- Wrote Google Test unit tests covering allocation, block reuse, and error handling.
 
-* Implemented a custom memory allocator in pure C with support for two fixed allocation sizes (15 and 180 bytes).
-* Wrote unit tests using Google Test to verify allocation, block reuse, and error handling.
+**Technologies:** C, Google Test, CMake
 
-**Technologies:** C, Google Test, Git, CMake
+### Farseer — Real-Time Video Stream Analysis Service
 
-### LRU Cache Implementation in C ([caching](https://github.com/mmmhdp/bscalg/tree/main/calg/caching))
+[Source code](https://github.com/mmmhdp/farseer)
 
 *Coursework*
 
-Implemented an **LRU (Least Recently Used) cache** in pure C with constant‑time operations.
+- Developed an asynchronous service for analyzing RTSP video streams using a microservices architecture.
+- Implemented a REST API for managing service requests and integrated YOLO-based object detection.
 
-* Built key data structures: a hash table, a doubly linked list, and a cache based on them.
-* Developed comprehensive unit tests to verify the correctness of the hash table, linked list, and cache itself.
-
-**Technologies:** C, Git, Google Tests, Make
+**Technologies:** Python, FastAPI, PostgreSQL, Redis, MinIO, Docker
 
 ---
 
 ## Education
 
 ### National University of Science and Technology MISIS
+
 **2021–2025**
 
 **Bachelor’s Degree in System and Software Engineering**
 
-Specialisation: “Intelligent Data Analysis Systems”
+Specialisation: Intelligent Data Analysis Systems
 
-The programme focused on software engineering and applied machine learning.
+Coursework in software engineering and applied machine learning.
 
 ---
 
 ## Additional Training
 
-### [C Programming Course (MIPT)](https://www.youtube.com/watch?v=7YhRFx-oyW4&t=52s)
+### MIPT C and C++ Programming Courses
 
-* Completed a bachelor’s‑level course in the C programming language.
+Completed bachelor’s-level courses in C and C++.
 
-[Assignment solutions](https://github.com/mmmhdp/bscalg)
-
-Original assignments:
-* [Author’s repository](https://github.com/tilir/c-graduate)
-* [Yandex Contest with assignments](https://contest.yandex.ru/contest/66459/problems)
-
----
-
-### [C++ Programming Course (Bachelor’s Level, MIPT)](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK&index=1)
-
-* Completed a bachelor’s‑level C++ course.
+- [C programming course](https://www.youtube.com/watch?v=7YhRFx-oyW4&t=52s)
+- [C++ programming course](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK&index=1)
+- [C programming assignments](https://github.com/mmmhdp/bscalg)
