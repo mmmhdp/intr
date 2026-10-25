@@ -20,7 +20,7 @@ GitHub: [mmmhdp](https://github.com/mmmhdp)
 
 ## About Me
 
-I’m a C++ developer working on on-device recognition software and the tools engineers use to develop, debug, and test it.
+C++ developer working on on-device recognition software and the tools used to develop, debug, and test it.
 
 ---
 
