@@ -20,7 +20,7 @@ GitHub: [mmmhdp](https://github.com/mmmhdp)
 
 ## About Me
 
-C++ developer working on on-device recognition software and the tools used to develop, debug, and test it.
+C++ developer working on face recognition products running on-device, as well as building tools for debugging and testing them.
 
 ---
 
@@ -28,7 +28,7 @@ C++ developer working on on-device recognition software and the tools used to de
 
 **Programming languages:** C++, C, Python
 
-**Libraries and frameworks:** Qt6, Google Test 
+**Libraries and frameworks:** Qt6, Google Test
 
 **Build and development tools:** CMake, CTest, Make, Git, Docker
 
@@ -42,7 +42,8 @@ C++ developer working on on-device recognition software and the tools used to de
 
 **March 2026 – Present**
 
-Member of both the Face Recognition Engine team and the Internal Tools team, developing on-device recognition software, debugging tools, and automated testing infrastructure.
+Working across two teams: the Face Recognition Engine team and the Internal Tools team.
+Developing on-device recognition software, debugging tools, and automated testing infrastructure.
 
 - Refactored the face recognition pipeline into separate frame and region-processing components, enabling parallel processing of detected faces within a frame; also parallelized face embedding computation using the company’s cross-platform concurrency library.
 
@@ -107,16 +108,15 @@ Member of both the Face Recognition Engine team and the Internal Tools team, dev
 
 Specialisation: Intelligent Data Analysis Systems
 
-Coursework in software engineering and applied machine learning.
-
 ---
 
 ## Additional Training
 
 ### MIPT C and C++ Programming Courses
 
-Completed bachelor’s-level courses in C and C++.
+Completed university-level courses in C and C++.
 
 - [C programming course](https://www.youtube.com/watch?v=7YhRFx-oyW4&t=52s)
 - [C++ programming course](https://www.youtube.com/watch?v=Bym7UMqpVEY&list=PL3BR09unfgciJ1_K_E914nohpiOiHnpsK&index=1)
 - [C programming assignments](https://github.com/mmmhdp/bscalg)
+
