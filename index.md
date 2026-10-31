@@ -38,7 +38,7 @@ C++ developer working on face recognition products running on-device, as well as
 
 ## Professional Experience
 
-### SmartEngines — Junior C++ Developer
+### SmartEngines — C++ Developer
 
 **March 2026 – Present**
 
